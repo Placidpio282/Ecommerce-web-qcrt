@@ -1,0 +1,176 @@
+export const products = [
+{
+id: 6,
+name: "True Wireless Earbuds",
+price: 79.99,
+originalPrice: 119.99,
+image: "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/8534087/pexels-photo-8534087.jpeg?auto=compress&cs=tinysrgb&w=800",
+],
+description: "Compact true wireless earbuds with deep bass, touch controls, and long-lasting battery life. Ideal for music and calls.",
+category: "Audio",
+rating: 4.6,
+reviews: 305,
+inStock: true,
+stockCount: 45,
+brand: "SoundCore",
+features: [
+"Wireless",
+"Touch Control",
+"Deep Bass",
+"Noise Isolation",
+],
+discount: 33,
+},
+
+{
+id: 2,
+name: "Running Sports Shoes",
+price: 129.99,
+originalPrice: 179.99,
+image: "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+],
+description: "Lightweight running shoes with breathable mesh, cushioned sole, and durable grip. Ideal for daily running and sports activities.",
+category: "Footwear",
+rating: 4.5,
+reviews: 356,
+inStock: true,
+stockCount: 22,
+brand: "RunFlex",
+features: [
+"Lightweight",
+"Breathable Mesh",
+"Anti-Slip Sole",
+"Comfort Fit"
+],
+discount: 28
+},
+
+{
+id: 3,
+name: "Wireless Gaming Mouse",
+price: 49.99,
+originalPrice: 79.99,
+image: "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/5082566/pexels-photo-5082566.jpeg?auto=compress&cs=tinysrgb&w=800",
+],
+description: "High precision wireless gaming mouse with RGB lighting, fast response time, and ergonomic grip.",
+category: "Accessories",
+rating: 4.6,
+reviews: 289,
+inStock: true,
+stockCount: 35,
+brand: "ClickPro",
+features: [
+"Wireless",
+"RGB Lighting",
+"Ergonomic Design",
+"High DPI Sensor"
+],
+discount: 37
+},
+{
+id: 4,
+name: "Pro Smart Watch",
+price: 199.99,
+originalPrice: 279.99,
+image: "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/5082577/pexels-photo-5082577.jpeg?auto=compress&cs=tinysrgb&w=800",
+],
+description: "Premium smart watch with fitness tracking, GPS, heart rate monitor, and long battery life.",
+category: "Wearables",
+rating: 4.7,
+reviews: 390,
+inStock: true,
+stockCount: 32,
+brand: "FitZone",
+features: [
+"GPS Tracking",
+"Heart Rate Monitor",
+"Water Resistant",
+"Smart Notifications",
+],
+discount: 28,
+},
+{
+id: 5,
+name: "Travel Backpack",
+price: 79,
+originalPrice: 110,
+image: "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg",
+"https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+],
+description: "Spacious backpack designed for travel and daily use with multiple compartments.",
+category: "Bags",
+rating: 4.6,
+reviews: 320,
+inStock: true,
+stockCount: 18,
+brand: "TravelPro",
+features: ["Water Resistant","Multi Compartments","Comfort Straps","Durable"],
+discount: 28,
+},
+{
+id: 1,
+name: "Premium Wireless Headphones",
+price: 299.99,
+originalPrice: 399.99,
+image:
+"https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg?auto=compress&cs=tinysrgb&w=800",
+],
+description:
+"High-quality wireless headphones with noise cancellation and premium sound quality. Features 30-hour battery life and comfortable over-ear design.",
+category: "Electronics",
+rating: 4.8,
+reviews: 324,
+inStock: true,
+stockCount: 15,
+brand: "AudioTech",
+features: [
+"Noise Cancellation",
+"10h Battery",
+"Wireless",
+"Premium Sound"
+],
+discount: 25
+},
+{
+id: 7,
+name: "Luxury Formal Watch",
+price: 249.99,
+originalPrice: 349.99,
+image: "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=800",
+images: [
+"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=800",
+"https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg?auto=compress&cs=tinysrgb&w=800",
+],
+description: "Elegant formal wristwatch with premium leather strap, classic dial design, and precise quartz movement. Perfect for business and formal occasions.",
+category: "Accessories",
+rating: 4.6,
+reviews: 210,
+inStock: true,
+stockCount: 18,
+brand: "TimeClassic",
+features: [
+"Quartz Movement",
+"Leather Strap",
+"Water Resistant",
+"Classic Design",
+],
+discount: 29,
+}
+];
