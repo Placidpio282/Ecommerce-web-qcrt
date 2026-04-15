@@ -52,7 +52,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ## Project Structure
 
-https://ibb.co/W4CtYvzh
+<img arc="https://ibb.co/W4CtYvzh">
 
 ---
 
