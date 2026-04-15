@@ -1,4 +1,4 @@
-உன்## Ecommerce-web-qcrt
+## Ecommerce-web-qcrt
 
 # 🛒QuickCart – ECommerce Web Application 
 
@@ -52,22 +52,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ## Project Structure
 
-<src/
 
-components/
-Header.jsx
-ProductGrid.jsx
-ProductCard.jsx
-CartSidebar.jsx
-CartItem.jsx
-
-data/
-products.js
-
-store/
-cartSlice.js
-
-App.jsx
 ---
 
 ## How to Run
