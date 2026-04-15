@@ -1,4 +1,4 @@
-## Ecommerce-web-qcrt
+hi## Ecommerce-web-qcrt
 
 # 🛒QuickCart – ECommerce Web Application 
 
@@ -52,7 +52,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ## Project Structure
 
-<img arc="https://ibb.co/W4CtYvzh">
+<img src="https://ibb.co/W4CtYvzh">
 
 ---
 
