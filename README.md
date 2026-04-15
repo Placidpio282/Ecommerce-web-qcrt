@@ -52,38 +52,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ## Project Structure
 
-src/
-│
-├── components/                # Reusable UI Components
-│   ├── Header.jsx
-│   ├── ProductGrid.jsx
-│   ├── ProductCard.jsx
-│   ├── CartSidebar.jsx
-│   ├── CartItem.jsx
-│
-├── data/                      # Static Data / Mock Data
-│   └── products.js
-│
-├── store/                     # Redux Store Configuration
-│   ├── cartSlice.js
-│   └── store.js               # (optional but recommended)
-│
-├── pages/                     # Page-level Components (optional)
-│   ├── Home.jsx
-│   └── Cart.jsx
-│
-├── assets/                    # Images, Icons, etc.
-│
-├── styles/                    # Global Styles / Tailwind configs
-│   └── index.css
-│
-├── utils/                     # Helper Functions (optional)
-│
-├── App.jsx                    # Root Component
-├── main.jsx                   # Entry Point (React DOM render)
-│
-└── routes/                    # Routing Logic (optional)
-    └── AppRoutes.jsx
+https://ibb.co/W4CtYvzh
 
 ---
 
