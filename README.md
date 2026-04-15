@@ -1,6 +1,6 @@
 ## Ecommerce-web-qcrt
 
-# QuickCart – ECommerce Website
+# QuickCart – ECommerce Web Application 
 
 QuickCart is a modern and responsive eCommerce web application built using React.js, Tailwind CSS, and Redux Toolkit. It allows users to browse products, search items, and manage their shopping cart with real-time updates.
 
