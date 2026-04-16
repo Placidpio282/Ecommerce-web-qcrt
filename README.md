@@ -52,7 +52,7 @@ The application focuses on providing a smooth and interactive shopping experienc
 
 ## 🏗️Project Structure
 
-<img src="src/assets/structure-2.jpeg">
+<img src="src/assets/structure-1.jpeg">
 
 ---
 
