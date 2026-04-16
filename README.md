@@ -10,20 +10,20 @@ The application focuses on providing a smooth and interactive shopping experienc
 
 ## 🧩Components Included
 
-### •Header.jsx  
-Displays logo, search bar, and cart icon with real-time item count.
+### Header.jsx  
+• Displays logo, search bar, and cart icon with real-time item count.
 
-### •ProductGrid.jsx  
-Shows all products with search filtering and smooth animations.
+### ProductGrid.jsx  
+• Shows all products with search filtering and smooth animations.
 
-### •ProductCard.jsx  
-Displays individual product details with rating and add-to-cart functionality.
+### ProductCard.jsx  
+• Displays individual product details with rating and add-to-cart functionality.
 
-### •CartSidebar.jsx  
-Sliding cart panel to view items, total price, and checkout options.
+### CartSidebar.jsx  
+• Sliding cart panel to view items, total price, and checkout options.
 
-### •CartItem.jsx  
-Handles individual cart item actions like quantity update and remove.
+### CartItem.jsx  
+• Handles individual cart item actions like quantity update and remove.
 
 ---
 
