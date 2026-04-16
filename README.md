@@ -1,4 +1,4 @@
-## Ecommerce-web-qcrt
+ஜி## Ecommerce-web-qcrt
 
 # 🛒QuickCart – ECommerce Web Application 
 
@@ -52,7 +52,7 @@ The application focuses on providing a smooth and interactive shopping experienc
 
 ## 🏗️Project Structure
 
-<img src="src/assets/structure-1">
+<img src="src/assets/structure-1.jpeg">
 
 ---
 
