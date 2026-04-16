@@ -27,7 +27,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ---
 
-## Features
+## ✨Features
 
 - Responsive UI design using Tailwind CSS  
 - Product search functionality  
@@ -38,7 +38,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ---
 
-## Tech Stack
+## 💻Tech Stack
 
 | Technology       | Use                         |
 |----------------|-----------------------------|
@@ -50,12 +50,12 @@ Handles individual cart item actions like quantity update and remove.
 
 ---
 
-## Project Structure
+## 🏗️Project Structure
 
 
 ---
 
-## How to Run
+## ⚙️How to Run
 
 1. Clone or download this repository  
 2. Install dependencies using `npm install`  
@@ -64,7 +64,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ---
 
-## Future Enhancements
+##🚀Future Enhancements
 
 - Product filter option  
 - Wishlist feature ❤️  
