@@ -64,7 +64,7 @@ Handles individual cart item actions like quantity update and remove.
 
 ---
 
-##🚀Future Enhancements
+## 🚀Future Enhancements
 
 - Product filter option  
 - Wishlist feature ❤️  
