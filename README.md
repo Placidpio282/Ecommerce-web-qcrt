@@ -1,4 +1,4 @@
-ஜி## Ecommerce-web-qcrt
+## Ecommerce-web-qcrt
 
 # 🛒QuickCart – ECommerce Web Application 
 
